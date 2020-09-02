@@ -3,10 +3,18 @@
 #####################################################################
 
 ###archiso
+amd-ucode
+intel-ucode
+
 
 archiso
 mkinitcpio-archiso
 arch-install-scripts
+
+mkinitcpio
+mkinitcpio-nfs-utils
+
+
 #b43-fwcutter
 bind-tools
 broadcom-wl
