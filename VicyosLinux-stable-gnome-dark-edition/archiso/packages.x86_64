@@ -13,7 +13,16 @@ arch-install-scripts
 
 mkinitcpio
 mkinitcpio-nfs-utils
+
+
 haveged
+edk2-shell
+linux
+memtest86+
+nbd
+syslinux
+#systemd-resolvconf
+
 
 
 #b43-fwcutter
