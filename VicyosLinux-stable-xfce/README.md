@@ -27,6 +27,13 @@
 
 To update the apps, pkgs and the kernel, open a terminal and type: upall && skel<br />
 ![](https://i.imgur.com/OHhlz0f.png)
+ <br />
+
+
+**Required Archiso for Building the ISO:** 
+
+For you to be able to build the ISO, you will need to be using the archiso version: 47.1-1<br />
+If you have an archiso upper than "47.1-1" then, you will need to downgrade it to "47.1-1".<br />
 
 #
 
