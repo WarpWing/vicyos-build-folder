@@ -13,6 +13,7 @@ arch-install-scripts
 
 mkinitcpio
 mkinitcpio-nfs-utils
+haveged
 
 
 #b43-fwcutter
