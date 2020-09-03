@@ -44,6 +44,14 @@ If you have an archiso upper than "47.1-1" then, you will need to downgrade it t
 <br />
 
 
+**//  vicyoslinux-dark-2020.09.03.iso - Changelogs:**
+
+ - [x] Packages updated up to the moment of the build (2020-09-03)
+ - [x] Arcolinux-iso commits added
+
+<br />
+<br />
+
 **//  VicyosLinux-Dark-2020-08-24.iso - Changelogs:**
 
  - [x] Packages updated up to the moment of the build (2020-08-24)

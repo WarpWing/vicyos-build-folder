@@ -44,6 +44,14 @@ If you have an archiso upper than "47.1-1" then, you will need to downgrade it t
 <br />
 <br />
 
+**//  vicyos-gnome-dark-2020.09.03.iso - Changelogs:**
+
+ - [x] Packages updated up to the moment of the build (2020-09-03)
+ - [x] Arcolinux-iso commits added
+ - [x] Fix calamares installation
+
+<br />
+<br />
 
 **//  Vicyos-Gnome-Dark-2020-08-24.iso - Changelogs:**
 
