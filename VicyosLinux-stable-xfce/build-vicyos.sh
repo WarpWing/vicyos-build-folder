@@ -38,10 +38,10 @@ echo
 
 
 # Set the Iso Label, Name, Publisher, Aplication, and ISO version!
-sed -i "s/iso_name=/iso_name=vicyosLinux/g" work/archiso/build.sh
+sed -i "s/iso_name=/iso_name=vicyoslinux/g" work/archiso/build.sh
 sed -i "s/iso_label=/iso_label="vicyosLinux-$(date +%Y.%m.%d)"/g" work/archiso/build.sh
-sed -i "s/iso_publisher="'""'"/iso_publisher="'"vicyosLinux <https:\/\/github.com\/felipendc>"'"/g" work/archiso/build.sh
-sed -i "s/iso_application="'""'"/iso_application="'"vicyosLinux Live\/Rescue CD"'"/g" work/archiso/build.sh
+sed -i "s/iso_publisher="'""'"/iso_publisher="'"vicyoslinux <https:\/\/github.com\/felipendc>"'"/g" work/archiso/build.sh
+sed -i "s/iso_application="'""'"/iso_application="'"vicyoslinux Live\/Rescue CD"'"/g" work/archiso/build.sh
 sed -i "s/iso_version=/iso_version="$(date +%Y.%m.%d)"/g" work/archiso/build.sh
 
 # Add the build date to the "DISTRIB_RELEASE"
