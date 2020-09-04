@@ -64,6 +64,12 @@ cp -p archiso/.zshrc work/archiso/airootfs/etc/skel/
 rm -R work/archiso/airootfs/etc/skel/.bashrc
 cp -p archiso/.bashrc work/archiso/airootfs/etc/skel/
 
+# Move Vicyos documentation files to skel/documents/ folder
+
+mkdir work/archiso/airootfs/etc/skel/Documents
+cp -p archiso/.key-bidings-documentation work/archiso/airootfs/etc/skel/Documents/key-bidings-documentation.txt
+cp -p archiso/.VicyosLinux-Documentation work/archiso/airootfs/etc/skel/Documents/VicyosLinux-Documentation.txt
+
 ###################################################################################
 ##################################################################################
 
