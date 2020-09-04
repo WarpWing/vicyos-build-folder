@@ -1,9 +1,5 @@
 # Vicyos-build-folders: :fire:XFCE - HLWM - GNOME - BSPWM:fire:
 
-
-
-
-
 ![](https://i.imgur.com/D1TxJzl.jpg)
 - **VICYOS-NORD EDITION**
 - **Distro Based on:** :fire:ArchLinux & ArcolinuxB:fire:
