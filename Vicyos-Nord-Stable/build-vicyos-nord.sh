@@ -69,6 +69,8 @@ cp -p archiso/.bashrc work/archiso/airootfs/etc/skel/
 mkdir work/archiso/airootfs/etc/skel/Documents
 cp -p archiso/.key-bidings-documentation work/archiso/airootfs/etc/skel/Documents/key-bidings-documentation.txt
 cp -p archiso/.VicyosLinux-Documentation work/archiso/airootfs/etc/skel/Documents/VicyosLinux-Documentation.txt
+cp -p archiso/.How-to-enable-System-Tray-on-the-Polybar work/archiso/airootfs/etc/skel/Documents/How-to-enable-System-Tray-on-the-Polybar.txt
+
 
 ###################################################################################
 ##################################################################################
