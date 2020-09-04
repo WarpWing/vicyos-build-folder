@@ -1,3 +1,138 @@
+
+#####################################################################################################
+###################################### VicyosLinux Key-bidings! #####################################
+#####################################################################################################
+
+---------------
+# Preselect the splitting area for next window on leaf/parent
+super + ctrl + {u,i,o,p}
+
+
+---------------
+# Flip layout vertically
+super + a
+
+# Flip layout /horizontally
+super + shift + a
+
+---------------
+# Move floating window
+super + alt + {_,shift + }{Left,Down,Up,Right}
+
+
+---------------
+# Expand tiled space
+ctrl + alt + {Left,Down,Up,Right}
+
+
+---------------
+# Contract tiled space
+super + ctrl + {Left,Down,Up,Right}
+
+
+---------------
+# Focus/swap windows by direction
+super + {_,shift + }{Left,Down,Up,Right}
+
+
+---------------
+# Focus next/previous window
+super + Left
+
+
+---------------
+# Focus next/previous window
+super + Right
+
+
+---------------
+# Focus Up window
+super + Up
+
+
+---------------
+# Focus Down window
+super + Down
+
+
+---------------
+# Move focused window to other monitor
+super + alt + Left
+
+
+---------------
+# Move focused window to other monitor
+super + alt + Right
+
+
+---------------
+# Move focused window to other monitor
+super + alt + Up
+
+
+---------------
+# Move focused window to other monitor
+super + alt + Down
+
+
+---------------
+#Dmenu
+super + F11
+
+
+---------------
+#Rofi
+super + F12
+
+
+---------------
+# network / internet
+super + n
+
+
+---------------    
+#Browser / Google-Chrome
+super + w
+
+
+---------------
+# Log out / Poweroff / Lock / Reboot
+super + x
+
+
+---------------
+# Urxvt
+super + Return
+
+
+---------------
+# Cancel preselection
+super + ctrl + space
+
+
+
+
+
+/////////////////////////////////////////////////////////////
+
+If you want to change some of these key-bidings, go to:
+
+.config/bspwm/sxhkd/
+
+and open the file: 
+
+sxhkdrc
+
+enjoy it!.
+
+
+/////////////////////////////////////////////////////////////
+
+
+
+
+
+
 ################################################################################################
 ##################################### ARCOLINUX Key-bidings! ###################################
 ################################################################################################
@@ -386,133 +521,5 @@ super + shift + {1-9,0}
 
 
 
-#####################################################################################################
-###################################### VicyosLinux Key bidings! #####################################
-#####################################################################################################
-
----------------
-# Preselect the splitting area for next window on leaf/parent
-super + ctrl + {u,i,o,p}
-
-
----------------
-# Flip layout vertically
-super + a
-
-# Flip layout /horizontally
-super + shift + a
-
----------------
-# Move floating window
-super + alt + {_,shift + }{Left,Down,Up,Right}
-
-
----------------
-# Expand tiled space
-ctrl + alt + {Left,Down,Up,Right}
-
-
----------------
-# Contract tiled space
-super + ctrl + {Left,Down,Up,Right}
-
-
----------------
-# Focus/swap windows by direction
-super + {_,shift + }{Left,Down,Up,Right}
-
-
----------------
-# Focus next/previous window
-super + Left
-
-
----------------
-# Focus next/previous window
-super + Right
-
-
----------------
-# Focus Up window
-super + Up
-
-
----------------
-# Focus Down window
-super + Down
-
-
----------------
-# Move focused window to other monitor
-super + alt + Left
-
-
----------------
-# Move focused window to other monitor
-super + alt + Right
-
-
----------------
-# Move focused window to other monitor
-super + alt + Up
-
-
----------------
-# Move focused window to other monitor
-super + alt + Down
-
-
----------------
-#Dmenu
-super + F11
-
-
----------------
-#Rofi
-super + F12
-
-
----------------
-# network / internet
-super + n
-
-
----------------    
-#Browser / Google-Chrome
-super + w
-
-
----------------
-# Log out / Poweroff / Lock / Reboot
-super + x
-
-
----------------
-# Urxvt
-super + Return
-
-
----------------
-# Cancel preselection
-super + ctrl + space
-
-
-
-
-
-/////////////////////////////////////////////////////////////
-
-If you want to change some of these key-bidings, go to:
-
-.config/bspwm/sxhkd/
-
-and open the file: 
-
-sxhkdrc
-
-enjoy it!.
-
-
-/////////////////////////////////////////////////////////////
 
 
