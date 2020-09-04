@@ -2,7 +2,7 @@
 Another day, I was wondering how to enable, disable, or move the System-Tray from one side to the other on the Polybar,
 with no need to acess the Polybar config folder, all the tim it was needed. 
 
-So, I decided to write some "commands" to make it easy to enable, disable, or even move the System-Tray from the the right to the left side of the Polybar,
+So, I decided to write some "commands" or (Alias) to make it easy to enable, disable, or even move the System-Tray from the the right to the left side of the Polybar,
 just by using some easy commands on the terminal:
 
 
