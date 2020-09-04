@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/D1TxJzl.jpg)
+![](https://i.imgur.com/DFR1Ucf.jpg)
 
 - **Distro Based on:** :fire:ArchLinux & ArcolinuxB:fire:
 - **Pre-installed Kernel:** :fire:Rolling-Release Kernel (Always Up To Date):fire:
