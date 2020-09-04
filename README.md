@@ -1,4 +1,4 @@
-# Vicyos-build-folders: :fire:XFCE - HLWM - GNOME:fire:
+# Vicyos-build-folders: :fire:XFCE - HLWM - GNOME - BSPWM:fire:
 
 
 
