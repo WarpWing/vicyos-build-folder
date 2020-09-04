@@ -1,4 +1,5 @@
-# Vicyos-build-folders: :fire:XFCE - HLWM - GNOME - BSPWM:fire:
+# Vicyos-build-folders: 
+:fire::fire::fire:XFCE - HLWM - GNOME - BSPWM:fire::fire::fire:
 
 ![](https://i.imgur.com/D1TxJzl.jpg)
 - **VICYOS-NORD EDITION**
