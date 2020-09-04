@@ -1,6 +1,30 @@
 # Vicyos-build-folders: :fire:XFCE - HLWM - GNOME:fire:
 
 
+
+
+
+![](https://i.imgur.com/D1TxJzl.jpg)
+- **VICYOS-NORD EDITION**
+- **Distro Based on:** :fire:ArchLinux & ArcolinuxB:fire:
+- **Pre-installed Kernel:** :fire:Rolling-Release Kernel (Always Up To Date):fire:
+- **Desktop Environment:** :fire:BSPWM Rolling-Release (Always Up To Date):fire:
+- **Packages Update Tip:** To update the apps, pkgs and the kernel, open a terminal & type: upall 
+- **VicyosLinux Documentation Video Playlist:** [:tv:VicyosLinux Latest Tutorials Official:tv:](https://www.youtube.com/playlist?list=PLEHnzNeoCcNzT-ZpVu7aywVocaxr7XgNS)
+- **ISO Download Link:** [:arrow_down:Download the latest Iso:arrow_down:](https://sourceforge.net/projects/arcolinux-spinoffs/files/Vicyos/Vicyos-Nord/) 
+
+***For more information, visit:***
+
+<pre>
+https://github.com/felipendc/vicyos-build-folder/tree/master/Vicyos-Nord-Stable
+</pre>
+
+<br />
+<br />
+<br />
+
+#
+
 ![](https://i.imgur.com/motnZKO.png)
 - **GNOME DARK EDITION**
 - **Distro Based on:** :fire:ArchLinux & ArcolinuxB:fire:
