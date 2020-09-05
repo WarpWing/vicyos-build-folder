@@ -133,6 +133,7 @@ Linus Torvalds and his team. Hahaha
 ![](https://i.imgur.com/UNjM0zz.png)
 ![](https://i.imgur.com/3bjVwLZ.png)
 ![](https://i.imgur.com/uhhff0q.png)
+![](https://i.imgur.com/YU1We7l.jpg)
 ![](https://i.imgur.com/mgaqKTt.jpg)
 ![](https://i.imgur.com/WwREqie.jpg)
 ![](https://i.imgur.com/n8WqDFc.jpg)
