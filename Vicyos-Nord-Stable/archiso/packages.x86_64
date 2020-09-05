@@ -370,7 +370,7 @@ speedtest-cli
 #timeshift
 #tlp
 tree
-#ufw
+ufw
 #gufw
 unace
 unrar
