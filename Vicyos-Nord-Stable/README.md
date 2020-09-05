@@ -126,8 +126,10 @@ Linus Torvalds and his team. Hahaha
 
 **Vicyos-Gnome-Dark-Edition Screenshots!!!**
 
+
 ![](https://i.imgur.com/VaHlSLz.jpg)
 ![](https://i.imgur.com/D1TxJzl.jpg)
+![](https://i.imgur.com/JmB7UDV.jpg)
 ![](https://i.imgur.com/UNjM0zz.png)
 ![](https://i.imgur.com/3bjVwLZ.png)
 ![](https://i.imgur.com/uhhff0q.png)
