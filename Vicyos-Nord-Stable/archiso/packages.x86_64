@@ -942,7 +942,7 @@ wine
 snapd
 fast
 nomacs
-
+font-manager
 wget 
 python 
 python-pip
