@@ -244,6 +244,10 @@ export CCACHE_EXEC="$(which ccache)"
 #### Only for Vicyos-Nord! ###
 ##############################
 
+#System-Tray 
 alias tray-off="sed -i '/tray-position =/c\tray-position = false' ~/.config/polybar/config.ini"
 alias tray-right="sed -i '/tray-position =/c\tray-position = right' ~/.config/polybar/config.ini"
 alias tray-left="sed -i '/tray-position =/c\tray-position = left' ~/.config/polybar/config.ini"
+
+### Try to fix the Pavucontrol "Dummy-audio" problem!
+alias no-sound="sudo rm -R ~/.config/pulse* && pulseaudio --start"
