@@ -26,7 +26,7 @@ hlwm() {
 }
 
 nord() {
-    cd Vicyos-Nord-DEV
+    cd Vicyos-Nord-Stable
     ./build-vicyos-nord.sh
     cd ../
 }
