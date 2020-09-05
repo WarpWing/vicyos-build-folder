@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/DFR1Ucf.jpg)
+![](https://i.imgur.com/JmB7UDV.jpg)
 
 - **Distro Based on:** :fire:ArchLinux & ArcolinuxB:fire:
 - **Pre-installed Kernel:** :fire:Rolling-Release Kernel (Always Up To Date):fire:
@@ -128,7 +128,7 @@ Linus Torvalds and his team. Hahaha
 
 
 ![](https://i.imgur.com/VaHlSLz.jpg)
-![](https://i.imgur.com/D1TxJzl.jpg)
+![](https://i.imgur.com/DFR1Ucf.jpg)
 ![](https://i.imgur.com/JmB7UDV.jpg)
 ![](https://i.imgur.com/UNjM0zz.png)
 ![](https://i.imgur.com/3bjVwLZ.png)
