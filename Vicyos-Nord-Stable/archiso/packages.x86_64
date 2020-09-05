@@ -899,7 +899,7 @@ vicyos-whisker-menu-icons-git
 ###########################################################################
 # boton for wifi setup
 bmon
-
+dunst
 zstd
 gimp
 inkscape

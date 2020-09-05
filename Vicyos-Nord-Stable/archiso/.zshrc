@@ -353,4 +353,4 @@ alias tray-right="sed -i '/tray-position =/c\tray-position = right' ~/.config/po
 alias tray-left="sed -i '/tray-position =/c\tray-position = left' ~/.config/polybar/config.ini"
 
 ### Try to fix the Pavucontrol "Dummy-audio" problem!
-alias no-sound="sudo rm -R ~/.config/pulse* && pulseaudio --start"
+alias no-sound="sudo rm -R ~/.config/pulse* && pulseaudio --kill"
