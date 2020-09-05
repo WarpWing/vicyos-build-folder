@@ -375,8 +375,8 @@ speedtest-cli
 #timeshift
 #tlp
 tree
-ufw
-#gufw
+#ufw
+gufw
 unace
 unrar
 unzip
