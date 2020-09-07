@@ -835,7 +835,8 @@ vicyos-system-installation-git
 vicyos-winff-resolve-preset-support-git
 vicyos-wallpapers-git
 vicyos-grub-customizer-git
-vicyos-betterlockscreen-cache-git
+vicyos-nord-betterlockscreen-cache-git
+#vicyos-betterlockscreen-cache-git
 vicyos-neofetch-git
 vicyos-clementine-config-git
 vicyos-hlwm-notebook-touchpad-git
