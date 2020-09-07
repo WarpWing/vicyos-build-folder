@@ -161,8 +161,9 @@ Linus Torvalds and his team. Hahaha
 ![](https://i.imgur.com/hXw8F8J.jpg)
 ![](https://i.imgur.com/YNe9Uhz.jpg)
 ![](https://i.imgur.com/VfzSJJk.jpg)
-
-
+![](https://i.imgur.com/LW9yWOe.jpg)
+![](https://i.imgur.com/6MTxJiK.jpg)
+![](https://i.imgur.com/ktEku5z.jpg)
 
 
 
