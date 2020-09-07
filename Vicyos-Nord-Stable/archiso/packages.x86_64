@@ -832,7 +832,8 @@ vicyos-system-installation-git
 ###########################################################################
 #                             VICYOS CONFIGS
 ###########################################################################
-vicyos-winff-resolve-preset-support-git
+vicyos-nord-winff-resolve-preset-support-git
+#vicyos-winff-resolve-preset-support-git
 vicyos-wallpapers-git
 vicyos-grub-customizer-git
 vicyos-nord-betterlockscreen-cache-git
