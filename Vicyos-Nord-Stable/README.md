@@ -48,6 +48,7 @@ If you have an archiso upper than "47.1-1" then, you will need to downgrade it t
 
  - [x] New betterlockscreen picture 
  - [x] Add blur effect on betterlockscreen picture
+ - [x] Using Urxvt terminal to convert winff files
 
 <br />
 <br />
