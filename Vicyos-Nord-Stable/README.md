@@ -44,7 +44,7 @@ If you have an archiso upper than "47.1-1" then, you will need to downgrade it t
 <br />
 <br />
 
-**//  NEXT RELEASE: - Changelogs:**
+**//  NEXT BUILD: - Changelogs:**
 
  - [x] Dummy-audio bug Patch
 
