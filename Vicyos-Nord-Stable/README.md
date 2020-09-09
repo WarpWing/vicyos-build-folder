@@ -44,6 +44,14 @@ If you have an archiso upper than "47.1-1" then, you will need to downgrade it t
 <br />
 <br />
 
+**//  NEXT RELEASE: - Changelogs:**
+
+ - [x] Dummy-audio bug Patch
+
+
+<br />
+<br />
+
 **//  vicyos-nord-2020.09.07.iso - Changelogs:**
 
  - [x] New betterlockscreen picture 
