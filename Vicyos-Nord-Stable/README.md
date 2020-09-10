@@ -47,8 +47,8 @@ If you have an archiso upper than "47.1-1" then, you will need to downgrade it t
 **//  NEXT BUILD: - Changelogs:**
 
  - [x] Dummy-audio bug Patch
- - [ ] Mintstick Dropped, for now!
-
+ - [x] Add Gedit 
+ - [x] Add Nord theme for Gedit by [arcticicestudio](https://github.com/arcticicestudio)
 
 <br />
 <br />
