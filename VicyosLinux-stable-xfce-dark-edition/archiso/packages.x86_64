@@ -467,7 +467,6 @@ mugshot
 pamac-aur
 peek
 pulseaudio-equalizer-ladspa
-python-pyparted
 python-pywal
 screenkey-git
 sublime-text-dev
@@ -885,3 +884,10 @@ clipgrab
 
 # Davinci Resolve fix:
 ocl-icd
+
+## Arco-iso
+gitahead-bin
+
+
+# Dropped pkgs, for now!
+#python-pyparted

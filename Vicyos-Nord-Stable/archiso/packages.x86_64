@@ -437,13 +437,12 @@ downgrade
 grub-customizer
 hardcode-fixer-git
 inxi
-mintstick-git
+
 #neofetch
 #numix-gtk-theme-git
 pamac-aur
 #peek
 #pulseaudio-equalizer-ladspa
-python-pyparted
 python-pywal
 #screenkey-git
 sublime-text-dev
@@ -862,6 +861,7 @@ vicyos-nord-root-git
 ###########################################################################
 #                           VICYOS 3PARTY PACKAGES 
 ###########################################################################
+vicyos-arcticicestudio-nord-theme-for-gedit-git
 #terminus-font-ttf
 nordic-theme-git
 vicyos-arcticicestudio-nord-visual-studio-code-git
@@ -879,7 +879,7 @@ neofetch-vicyos-ascii-git
 vicyos-bibata-ice-only-cursor-git
 #nodejs-nativefier
 whatsapp-nativefier
-electron7-bin
+#electron7-bin
 stacer
 winff
 balena-etcher
@@ -899,6 +899,9 @@ vicyos-whisker-menu-icons-git
 ###########################################################################
 #                    GET SOME VICYOS EXTRA PACKAGES 
 ###########################################################################
+# Davinci Resolve fix:
+ocl-icd
+
 # boton for wifi setup
 bmon
 dunst
@@ -949,7 +952,15 @@ wget
 python 
 python-pip
 curl
-
-# Davinci Resolve fix:
-ocl-icd
+gitahead-bin
 arandr
+gedit
+
+### Dropped pkgs, for now!
+# python-pyparted
+# mintstick-git
+#
+#
+
+
+### TEMP FILES

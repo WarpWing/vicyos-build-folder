@@ -448,7 +448,6 @@ mintstick-git
 pamac-aur
 #peek
 #pulseaudio-equalizer-ladspa
-python-pyparted
 python-pywal
 #screenkey-git
 sublime-text-dev
@@ -956,3 +955,10 @@ curl
 
 # Davinci Resolve fix:
 ocl-icd
+
+## Arco-iso
+gitahead-bin
+
+
+# Dropped pkgs, for now!
+#python-pyparted
