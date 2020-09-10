@@ -913,6 +913,9 @@ youtube-dl
 ###########################################################################
 #                           EXTRA APPLICATIONS
 ###########################################################################
+# Davinci Resolve fix:
+ocl-icd
+
 google-chrome
 #polybar
 code
@@ -952,13 +955,5 @@ wget
 python 
 python-pip
 curl
-
-# Davinci Resolve fix:
-ocl-icd
-
-## Arco-iso
 gitahead-bin
-
-
-# Dropped pkgs, for now!
-#python-pyparted
+python-pyparted

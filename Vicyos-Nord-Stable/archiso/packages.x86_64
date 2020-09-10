@@ -955,12 +955,5 @@ curl
 gitahead-bin
 arandr
 gedit
-
-### Dropped pkgs, for now!
-# python-pyparted
-# mintstick-git
-#
-#
-
-
-### TEMP FILES
+gitahead-bin
+python-pyparted
