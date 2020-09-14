@@ -44,6 +44,14 @@ If you have an archiso upper than "47.1-1" then, you will need to downgrade it t
 <br />
 <br />
 
+**//  NEXT BUILD - Changelogs:**
+
+ - [x] Add ranger
+ - [x] Add key biding to open ranger | (super + r)
+
+<br />
+<br />
+
 **//  vicyos-nord-2020.09.11.iso - Changelogs:**
 
  - [x] Dummy-audio bug Patch
