@@ -110,7 +110,9 @@ super + x
 super + Return
 
 
-
+---------------
+# Range: "a console file manager"
+super + r
 
 
 
