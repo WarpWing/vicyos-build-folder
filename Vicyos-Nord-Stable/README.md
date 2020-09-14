@@ -46,7 +46,7 @@ If you have an archiso upper than "47.1-1" then, you will need to downgrade it t
 
 **//  NEXT BUILD - Changelogs:**
 
- - [x] Add ranger ("[ranger](https://github.com/ranger/ranger)" is a console file manager written in python)
+ - [x] Add "[ranger](https://github.com/ranger/ranger)" (a console file manager, written in python)
  - [x] Add key biding to open ranger | (super + r)
 
 <br />
