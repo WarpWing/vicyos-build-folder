@@ -904,6 +904,8 @@ ocl-icd
 
 # boton for wifi setup
 bmon
+
+ranger
 dunst
 zstd
 gimp
