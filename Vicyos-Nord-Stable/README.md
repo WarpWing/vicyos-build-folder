@@ -48,6 +48,7 @@ If you have an archiso upper than "47.1-1" then, you will need to downgrade it t
 
  - [x] Add "[ranger](https://github.com/ranger/ranger)" (a console file manager, written in python)
  - [x] Add key biding to open ranger | (super + r)
+ - [x] System-tray: Bluetooth Dark Blue to White - Thanks to Erik
 
 <br />
 <br />
